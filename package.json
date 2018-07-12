@@ -21,8 +21,8 @@
     "surge": "^0.20.1"
   },
   "git": {
-      "scripts": {
-          "pre-push": "surge --project ./ --domain smarthome.khu.ac.kr"
-      }
+    "scripts": {
+      "pre-push": "surge --project ./ --domain smarthome.khu.ac.kr"
+    }
   }
 }
